@@ -1,7 +1,7 @@
 ---
 title: Intro
 layout: template
-filename: index
+filename: 00index
 --- 
 
 ## SuperContainers Project
@@ -12,10 +12,6 @@ This project is funded as a part of the U.S. Exascale Computing Project funded b
 
 TODO
 
-
-# Publications
-
-TODO
 
 # Acknowledgements
 
