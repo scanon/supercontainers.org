@@ -1,7 +1,7 @@
 ---
 title: Best Practices
 layout: template
-filename: bestpractices
+filename: hbestpractices
 --- 
 
 # TODO
