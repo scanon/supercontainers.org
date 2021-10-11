@@ -4,7 +4,7 @@ layout: template
 filename: index
 --- 
 
-<img src="images/supercontainer_cropped.png" alt="Supercontainers Logo" width="100"/>
+<img src="images/Supercontainer_logo_v2b-01.png" alt="Supercontainers Logo" width="200"/>
 
 # Supercontainers Project
 
