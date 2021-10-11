@@ -15,4 +15,4 @@ The ECP Supercomputing **Containers** Project (called *Supercontainers*) uses a 
 
 ## Acknowledgements
 
-This project is funded as a part of the U.S. [Exascale Computing Project](https://exascaleproject.org/) by the Department of Energy.
+This research project is supported by the [Exascale Computing Project](https://exascaleproject.org/) (17-SC-20-SC), a joint project of the U.S. [Department of Energy’s Office of Science](https://www.energy.gov/science/office-science) and [National Nuclear Security Administration]https://www.energy.gov/nnsa/national-nuclear-security-administration), responsible for delivering a capable exascale ecosystem, including software, applications, and hardware technology, to support the nation’s exascale computing imperative.  
