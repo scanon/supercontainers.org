@@ -16,9 +16,5 @@ The ECP Supercomputing *Containers* Project (called **Supercontainers**) uses a 
 
 This research project is supported by the [Exascale Computing Project](https://exascaleproject.org/) (17-SC-20-SC), a joint project of the U.S. [Department of Energy’s Office of Science](https://www.energy.gov/science/office-science) and [National Nuclear Security Administration](https://www.energy.gov/nnsa/national-nuclear-security-administration), responsible for delivering a capable exascale ecosystem, including software, applications, and hardware technology, to support the nation’s exascale computing imperative.  
 
-
-<img src="images/Supercontainer_logo_v2b-01.png" alt="Supercontainers Logo" height="200"/>
-<img src="images/ecp-logo.png" alt="ECP Logo" height="200"/>
-<img src="images/NNSA Logo_Color.png" alt="NNSA Logo" height="200"/>
-<img src="images/doe_science_logo.png" alt="DOE Science Logo" height="200"/>
+| <img src="images/Supercontainer_logo_v2b-01.png" alt="Supercontainers Logo" height="40"/> | <img src="images/ecp-logo.png" alt="ECP Logo" height="40"/> | <img src="images/NNSA Logo_Color.png" alt="NNSA Logo" height="40"/> | <img src="images/doe_science_logo.png" alt="DOE Science Logo" height="40"/> |
 
