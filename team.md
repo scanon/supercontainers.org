@@ -29,7 +29,7 @@ The Supercontainers team is a multi-institutional group of HPC, system software,
 
 **Todd Gamblin** - *Lawrence Livermore National Laboratory* - Spack lead and ECP L4
 
-**Tim Randles** - *Lawrence Berkeley National Laboratory* - Charliecloud co-lead, security expert
+**Tim Randles** - *Los Alamos National Laboratory* - Charliecloud co-lead, security expert
 
 **Kevin Pedretti** - *Sandia National Laboratories* - ATSE lead, Singularity expert
 
