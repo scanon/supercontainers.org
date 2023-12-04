@@ -5,7 +5,7 @@ filename: team
 --- 
 
 
-# The Supercontianers Team
+# The Supercontainers Team
 
 The Supercontainers team is a multi-institutional group of HPC, system software, and virtualizatin experts with a dedication to improving the usability and efficiency of system software for supercomputing systems.
 
